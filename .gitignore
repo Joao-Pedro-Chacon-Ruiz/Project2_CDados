@@ -1,5 +1,8 @@
 # Ignore Mac system files
 .DS_store
 
+#Ignore checkpoints
+.ipynb_checkpoints
+
 # Ignore tokens
 auth.pass
